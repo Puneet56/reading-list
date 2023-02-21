@@ -9,3 +9,6 @@
 
 ## CLI Tips
 - https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6
+
+## Testing
+- https://github.com/goldbergyoni/javascript-testing-best-practices
